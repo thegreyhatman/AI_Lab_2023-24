@@ -43,15 +43,9 @@ def bfs(visited, graph, node): #function for BFS
 bfs(visited, graph, '5')    # function calling
 ~~~
 
-
-
-
-
-
-
-
 ### Output:
 
+![image](https://github.com/thegreyhatman/AI_Lab_2023-24/assets/136783487/8db1fca5-7b31-42ee-9c83-f2ee11b322a8)
 
 
 ### Result:
